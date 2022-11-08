@@ -11,5 +11,18 @@ namespace MikroTik_backup
         {
 
         }
+
+        private void Start_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        // Checking if the table is complete (Проверяю заполненность таблицы)
+
+        // Connect via SSH to MikroTik (Подключаюсь по SSH к MikroTik)
+
+        // Create and download a backup file (Создаю и скачиваю файл резервной колпии)
+
+        // Compare the current file with the old file (Сравниваю текущий файл со старым)
     }
 }
