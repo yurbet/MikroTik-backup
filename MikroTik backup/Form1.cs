@@ -6,5 +6,10 @@ namespace MikroTik_backup
         {
             InitializeComponent();
         }
+
+        private void pastToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
